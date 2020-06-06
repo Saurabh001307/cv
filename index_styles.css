@@ -1,0 +1,11 @@
+hr{border:orange;
+    width: 20%;
+    border-style: none;
+    border-top-style:dotted;
+    border-width: 4px;}
+
+h1{color:blue;}
+h4{color:#007892;}
+table{border-color: brown;}
+
+.lab{background-color: chartreuse;}
