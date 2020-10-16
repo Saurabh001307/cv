@@ -10,3 +10,27 @@ table{border-color: brown;}
 
 .lab{background-color: chartreuse;}
 #text-shadow{text-shadow:  2px 4px pink}
+
+.img{
+    height: 480px;
+    width: 400px;
+
+}
+
+.about-data{
+    /* text-align: right; */
+
+    margin-right: 10px;
+    margin-left: 100px;
+    padding-right: 10px;
+}
+
+.link{
+    text-decoration: none;
+    text-align: center;
+    color: coral;
+}
+
+#git-img{
+    border-radius: 15px;
+}
